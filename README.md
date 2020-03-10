@@ -24,6 +24,9 @@ Ecma aims to develop standards and technical reports to facilitate and standardi
 ## 2. Official references websites. 
 Ecma International website : https://www.ecma-international.org <br />
 
+**_ECMAScript documentation by Mozilla_**
+Polyfill by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Polyfill <br />
+
 **_ECMAScript developers_** <br />
 Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
 Maximilian Schwarzmüller : https://github.com/maxschwarzmueller <br />
