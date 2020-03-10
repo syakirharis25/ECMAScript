@@ -4,8 +4,9 @@ My works related to ECMAScript scripting-language specification standardized by 
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [ECMAScript developers.](#developers)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -27,12 +28,14 @@ Ecma International website : https://www.ecma-international.org <br />
 **_ECMAScript documentation by Mozilla_**
 Polyfill by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Polyfill <br />
 
-**_ECMAScript developers_** <br />
+<a name="developers"></a>
+## 3. ECMAScript developers.
 Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
 Maximilian Schwarzmüller : https://github.com/maxschwarzmueller <br />
+Remy Sharp : https://github.com/remy <br />
  
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/ECMAScript.git
@@ -42,7 +45,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 8. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
