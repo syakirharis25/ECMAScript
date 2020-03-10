@@ -34,12 +34,14 @@ CSS3 Pie : http://css3pie.com <br />
 
 **_ECMAScript related projects_** <br />
 HTML5 Cross Browser Polyfills : https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills <br />
+vanilla-es6-jspm by Christophe Rosset : https://github.com/topheman/vanilla-es6-jspm <br />
 
 <a name="developers"></a>
 ## 3. ECMAScript developers.
 Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
 Maximilian Schwarzmüller : https://github.com/maxschwarzmueller <br />
 Remy Sharp : https://github.com/remy <br />
+Christophe Rosset : https://github.com/topheman <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
