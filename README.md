@@ -23,6 +23,9 @@ Ecma aims to develop standards and technical reports to facilitate and standardi
 <a name="references"></a>
 ## 2. Official references websites. 
 Ecma International website : https://www.ecma-international.org <br />
+
+**_ECMAScript developers_**
+Dylan C. Israel : https://github.com/PizzaPokerGuy <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
