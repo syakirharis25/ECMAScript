@@ -25,7 +25,7 @@ Ecma aims to develop standards and technical reports to facilitate and standardi
 Ecma International website : https://www.ecma-international.org <br />
 
 **_ECMAScript developers_**
-Dylan C. Israel : https://github.com/PizzaPokerGuy <br />
+Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
