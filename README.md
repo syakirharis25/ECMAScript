@@ -26,6 +26,7 @@ Ecma International website : https://www.ecma-international.org <br />
 
 **_ECMAScript developers_**
 Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
+Maximilian Schwarzmüller : https://github.com/maxschwarzmueller <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
