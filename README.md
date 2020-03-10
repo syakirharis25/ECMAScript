@@ -24,6 +24,7 @@ Ecma aims to develop standards and technical reports to facilitate and standardi
 <a name="references"></a>
 ## 2. Official references websites. 
 Ecma International website : https://www.ecma-international.org <br />
+ECMAScript compatibility table : https://kangax.github.io/compat-table/es6/ <br />
 
 **_ECMAScript documentation by Mozilla_** <br />
 Polyfill by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Polyfill <br />
