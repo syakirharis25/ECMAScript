@@ -28,6 +28,9 @@ Ecma International website : https://www.ecma-international.org <br />
 **_ECMAScript documentation by Mozilla_**
 Polyfill by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Polyfill <br />
 
+**_ECMAScript related projects_**
+HTML5 Cross Browser Polyfills : https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills <br />
+
 <a name="developers"></a>
 ## 3. ECMAScript developers.
 Dylan C. Israel : https://github.com/PizzaPokerGuy, https://twitter.com/PizzaPokerGuy <br />
