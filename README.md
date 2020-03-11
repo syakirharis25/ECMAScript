@@ -26,6 +26,12 @@ Ecma aims to develop standards and technical reports to facilitate and standardi
 Ecma International website : https://www.ecma-international.org <br />
 ECMAScript compatibility table : https://kangax.github.io/compat-table/es6/ <br />
 
+**_ECMAScript questions and answers_** <br />
+Stack Overflow questions and answers : https://stackoverflow.com <br />
+
+**_ECMAScript questions and answers by Stack Overflow_** <br />
+What is the difference between window, screen, and document in Javascript? by Stack Overflow : https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript <br />
+
 **_ECMAScript documentation by Mozilla_** <br />
 Polyfill by Mozilla : https://developer.mozilla.org/en-US/docs/Glossary/Polyfill <br />
 
